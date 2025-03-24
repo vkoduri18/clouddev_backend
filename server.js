@@ -7,6 +7,7 @@ app.use(cors());
 app.use(express.json());
 
 // Local MySQL connection config
+// triggering azure deployment
 const db = mysql.createConnection({
   host: 'localhost',
   user: 'root',
