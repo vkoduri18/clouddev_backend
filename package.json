@@ -6,7 +6,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "vkoduri18",
   "license": "ISC",
   "description": "",
   "dependencies": {
